@@ -1,0 +1,22 @@
+.mc-audio-graph {
+  line-height: 1;
+  padding: 0 6px;
+  margin-left: -6px;
+  margin-right: -6px;
+  margin-bottom: 10px;
+  padding-bottom: 14px;
+}
+
+.mc-audio-graph__canvas {
+  width: 268px;
+  height: 72px;
+  border-radius: 4px;
+  background-color: #090f28;
+}
+
+.mc-audio-graph__status {
+  color: #32c5ff;
+  font-size: 14px;
+  padding-top: 16px;
+  text-align: center;
+}
